@@ -1,0 +1,1 @@
+Aplikasi manajemen barang ini adalah sebuah sistem berbasis web yang dibangun menggunakan PHP dan MySQLi dengan dukungan Bootstrap untuk tampilan antarmuka. Aplikasi ini dirancang untuk membantu pengguna dalam mengelola data inventaris barang secara efisien, mulai dari kategori hingga data barang, lengkap dengan fitur validasi dan export ke Excel
